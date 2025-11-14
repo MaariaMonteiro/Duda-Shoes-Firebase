@@ -2,7 +2,7 @@
 
 <h2>🗂️ Visão Geral</h2>
 <p>
-  O Duda Shoes é um aplicativo integrado ao Firebase, D=desenvolvido com Kotlin e Jetpack Compose, que oferece todas as funcionalidades de um CRUD completo para gerenciamento de produtos e usuários.
+  O Duda Shoes é um aplicativo integrado ao Firebase, desenvolvido com Kotlin e Jetpack Compose, que oferece todas as funcionalidades de um CRUD completo para gerenciamento de produtos e usuários.
 </p>
 
 <h3>🛠️ Funcionalidades Principais</h3>
