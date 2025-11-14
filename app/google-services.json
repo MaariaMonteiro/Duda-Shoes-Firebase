@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318129977437",
+    "project_id": "duda-shoes",
+    "storage_bucket": "duda-shoes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318129977437:android:a1d3b838b35e01ee7bf5b4",
+        "android_client_info": {
+          "package_name": "com.example.dudashoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEDpNeLBryuMpmbILAdjdVzG124Fs_E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
